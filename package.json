@@ -1,0 +1,25 @@
+{
+  "name": "nyanblog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sevenskey/Nyanblog.git"
+  },
+  "author": "Sevenskey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sevenskey/Nyanblog/issues"
+  },
+  "homepage": "https://github.com/Sevenskey/Nyanblog#readme",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  },
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
+}
